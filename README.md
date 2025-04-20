@@ -20,4 +20,4 @@ This project is a real-time chat application that enables users to send and rece
 
 #OUTPUT
 
-
+![Image](https://github.com/user-attachments/assets/a2224f05-324f-4954-a0d8-f636476290f7)
